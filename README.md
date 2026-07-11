@@ -1,6 +1,6 @@
 # Mazen Fawzy — Portfolio
 
-Personal portfolio site built with **React** and **Vite**. Dark theme, scroll-based reveal animations, and deployed via GitHub Pages.
+Personal portfolio site built with **React** and **Vite**. featuring cinematic hero, smooth animations, and dark premium theme, scroll-based reveal animations, and deployed via GitHub Pages.
 
 🔗 **Live:** [maze-n01.github.io/my-portfolio](https://maze-n01.github.io/my-portfolio/)
 
