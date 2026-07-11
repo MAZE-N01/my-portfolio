@@ -710,7 +710,7 @@ function Hero() {
 
         <Reveal delay={0.24}>
           <div className="flex flex-wrap" style={{ gap: 14, marginBottom: 40, justifyContent: "center" }}>
-            <a href="#projects" className="btn-primary">
+            <a href="#Some projects" className="btn-primary">
               View Projects
               <ArrowUpRight size={17} />
             </a>
